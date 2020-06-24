@@ -1,7 +1,7 @@
 const Discord = require('discord.js')
 const client = new Discord.Client();
 
-const token = "NzI1NDc0Mjg3NzA3NzUwNDUx.XvPSRA.O0qck3BcTAiJKHwPbhwiJoOqL8o";
+const token = "";
 
 client.on('ready', () => {
   console.log("CheerMeUp bot is online!");
